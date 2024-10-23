@@ -3,8 +3,10 @@ The YouTube Summarizer is an AI-powered tool that automatically generates concis
 
 The project integrates several key technologies. Python serves as the primary programming language, offering flexibility for handling API requests, text processing, and data integration. The YouTube Transcript API extracts the raw transcript text from videos, while Google Gemini Pro (part of Google Generative AI) is used to perform the summarization. Environment variables such as API keys are securely managed using the python-dotenv library. The Streamlit framework enables a smooth web-based interface where users can easily interact with the summarizer. The project also incorporates pathlib for streamlined file handling. Overall, this project showcases the powerful combination of APIs and machine learning models in simplifying content consumption.
 **Technologies Used:**
+
 **Python:**
 The core programming language used to develop the application, handling API interactions, text processing, and data flow.
+
 **Streamlit:**
 A Python framework that enables building the web-based interface for the summarizer, allowing users to input YouTube links and view the results in a simple and interactive UI.
 **YouTube Transcript API:**
