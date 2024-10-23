@@ -16,7 +16,8 @@ This API fetches the transcript from YouTube videos, providing the raw text need
 
 **Google Generative AI (Gemini Pro):**
 A powerful NLP model that processes the video transcript and generates a concise summary of the content in a clear and readable format.
-python-dotenv:
+
+**python-dotenv:**
 A library used to manage environment variables like API keys securely, ensuring sensitive data like the Google API Key is kept confidential.
 
 **Pathlib:**
